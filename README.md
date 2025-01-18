@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a passionate full-stack developer with a love for creating innovative solutions. I enjoy working on both the front-end and back-end, and I'm always eager to learn new technologies and improve my skills.
+我是Coser爱好者
 
 - 📫 How to reach me: kellisonyd@gmail.com
 
