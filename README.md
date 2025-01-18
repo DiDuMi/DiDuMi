@@ -6,7 +6,7 @@
 
 ## About Me
 
-我是Coser爱好者
+什么也不会的Coser爱好者
 
 - 📫 How to reach me: kellisonyd@gmail.com
 
