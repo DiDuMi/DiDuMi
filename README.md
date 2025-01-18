@@ -1,4 +1,4 @@
-# Hello, I'm [DiDuMi]! 👋
+# Hello, I'm DiDuMi! 👋
 
 🚀 Full-Stack Developer | 💡 Problem Solver | 🌱 Lifelong Learner
 
@@ -11,7 +11,7 @@ I'm a passionate full-stack developer with a love for creating innovative soluti
 - 🔭 I’m currently working on [Your Current Project]
 - 🌱 I’m currently learning [New Technologies or Skills]
 - 💬 Ask me about [Your Expertise Areas]
-- 📫 How to reach me: [Your Email Address]
+- 📫 How to reach me: kellisonyd@gmail.com
 
 ---
 
@@ -53,13 +53,12 @@ I'm a passionate full-stack developer with a love for creating innovative soluti
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DiDumi)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kellisonyd@gmail.com)
 
 ---
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DiDuMi&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiDuMi&layout=compact&theme=radical)
