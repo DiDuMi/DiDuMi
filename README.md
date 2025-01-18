@@ -40,12 +40,6 @@ I'm a passionate full-stack developer with a love for creating innovative soluti
 ### [Project 1 Name](https://github.com/DiDuMi/project1)
 **Description**: Brief description of the project, what it does, and the technologies used.
 
-### [Project 2 Name](https://github.com/DiDuMi/project2)
-**Description**: Brief description of the project, what it does, and the technologies used.
-
-### [Project 3 Name](https://github.com/DiDuMi/project3)
-**Description**: Brief description of the project, what it does, and the technologies used.
-
 ---
 
 ## Connect with Me
