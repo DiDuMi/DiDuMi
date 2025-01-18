@@ -8,9 +8,6 @@
 
 I'm a passionate full-stack developer with a love for creating innovative solutions. I enjoy working on both the front-end and back-end, and I'm always eager to learn new technologies and improve my skills.
 
-- 🔭 I’m currently working on [Your Current Project]
-- 🌱 I’m currently learning [New Technologies or Skills]
-- 💬 Ask me about [Your Expertise Areas]
 - 📫 How to reach me: kellisonyd@gmail.com
 
 ---
